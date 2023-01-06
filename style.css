@@ -1,0 +1,35 @@
+#score{
+    margin-left: 5px;
+    font-size: 30px;
+    font-family: 'Updock', sans-serif;
+    font-weight: bolder;
+}
+#timer{
+    float: right;
+    margin-right: 5px;
+    font-size: 30px;
+    font-family: 'Updock', sans-serif;
+    font-weight: bolder;
+}
+body{
+    background-color: rgb(255, 247, 0);
+}
+h1{
+    color: rgb(38,0,255);
+    font-family: 'DynaPuff', sans-serif;
+    text-shadow: 5px 5px 5px hotpink;
+    size: 35px;
+}
+#show_sketch{
+    float: right;
+}
+p{
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+#sketch_to_be_drawn{
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+    color: red;
+}
